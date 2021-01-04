@@ -1,4 +1,5 @@
 # 234769_repository
 Some important notes.
+<<<<<<< HEAD
 
-Połączona
+Udana
